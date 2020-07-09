@@ -8,7 +8,7 @@
 
 ## {...} My Stack
 
-```json
+```js
 {
   languages: ['JavaScript', 'C#', 'Python'],
   backend: ['.NET Core'],
