@@ -10,7 +10,7 @@
 
 ## {...} My Stack
 
-```yaml
+```json
 {
    "languages":["JavaScript", "C#", "Python"],
    "backend":[".NET Core"],
@@ -20,7 +20,7 @@
 
 ## :tada: Achievements
 
-```yaml
+```json
 {
    "achievements":[
       {
