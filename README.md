@@ -10,7 +10,7 @@
 
 ## {...} My Stack
 
-```js
+```javascript
 {
    "languages":["JavaScript", "C#", "Python"],
    "backend":[".NET Core"],
@@ -20,7 +20,7 @@
 
 ## :tada: Achievements
 
-```js
+```javascript
 {
    "achievements":[
       {
