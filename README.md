@@ -4,7 +4,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/shunjid/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/_shunjid/)
 
-:wave: Hi, My name is Shunjid. I'm a 21 years old, self-taught, software engineering undergrad currently living in Dhaka, 🇧🇩. I love to work with new technologies and developing web applications. Currently, I am conducting my research on improving performance of progressive web applications.
+:wave: Hi, My name is Shunjid. I'm 21 years old, self-taught, software engineering undergrad currently living in Dhaka, 🇧🇩. I love to work with new technologies and developing web applications. Currently, I am conducting my research on improving performance of progressive web applications.
 
 ## {...} My Stack
 
